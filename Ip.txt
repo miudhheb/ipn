@@ -1,0 +1,5 @@
+shadowsocks=ds1.jiaowoy.top:1112, method=rc4-md5, password=jiaowoz, fast-open=false, udp-relay=false, tag=UNLOCK 
+shadowsocks=ds2.jiaowoy.top:1112, method=rc4-md5, password=jiaowoz, fast-open=false, udp-relay=false, tag=UNLOCK PLUS
+shadowsocks=ds3.jiaowoy.top:1112, method=rc4-md5, password=jiaowoz, fast-open=false, udp-relay=false, tag=UNLOCK X
+shadowsocks=ds4.jiaowoy.top:1112, method=rc4-md5, password=jiaowoz, fast-open=false, tag=UNLOCK XS
+Shadowsocks=ds5.jiaowoy.top:1112, method=rc4-md5, password=jiaowoz, fast-open=false, udp-relay=false, tag=UNLOCK MAX
