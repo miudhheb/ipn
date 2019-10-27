@@ -1,4 +1,4 @@
-#百度（可能有多余项）
+
 DOMAIN-SUFFIX,eclick.baidu.com,Reject
 DOMAIN-SUFFIX,entry.baidu.com,Reject
 DOMAIN-SUFFIX,hmma.baidu.com,Reject
@@ -13,11 +13,8 @@ DOMAIN-SUFFIX,imageplus.baidu.com,Reject
 DOMAIN-SUFFIX,t10.baidu.com,Reject
 DOMAIN-SUFFIX,t11.baidu.com,Reject
 DOMAIN-SUFFIX,t12.baidu.com,Reject
-# 未知广告 来自#49反馈
 DOMAIN-SUFFIX,stats.chinaz.com,Reject
-#站长统计
 DOMAIN-SUFFIX,google-analytics.com,Reject
-#广告联盟（可能有多余项）
 DOMAIN-SUFFIX,doubleclick.net,Reject
 DOMAIN-SUFFIX,zhihu-analytics.zhihu.com,Reject
 DOMAIN-SUFFIX,log.cmbchina.com,Reject
@@ -95,7 +92,6 @@ DOMAIN-SUFFIX,dcads.sina.com.cn,Reject
 DOMAIN-SUFFIX,sax.sina.cn,Reject
 DOMAIN-SUFFIX,sax.sina.com.cn,Reject
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn,Reject
-#微博（可能有多余项）
 DOMAIN-SUFFIX,c.biz.weibo.com,Reject
 DOMAIN-SUFFIX,game.weibo.com,Reject
 DOMAIN-SUFFIX,c.wcpt.biz.weibo.com,Reject
@@ -115,10 +111,8 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn,Reject
 DOMAIN-SUFFIX,wbpctips.mobile.sina.cn,Reject
 DOMAIN-SUFFIX,ota.pay.mobile.sina.cn,Reject
 DOMAIN-SUFFIX,pay.mobile.sina.cn,Reject
-# 有道词典
 DOMAIN-SUFFIX,gorgon.youdao.com,Reject
 DOMAIN-SUFFIX,impservice.youdao.com,Reject
-# 爱奇艺 PPS（可能有多余项）
 DOMAIN-SUFFIX,ad.m.iqiyi.com,Reject
 DOMAIN-SUFFIX,afp.iqiyi.com,Reject
 DOMAIN-SUFFIX,api.cupid.iqiyi.com,Reject
@@ -156,11 +150,8 @@ IP-CIDR,183.221.247.189/22,Reject
 IP-CIDR,27.221.89.128/28,Reject
 IP-CIDR,60.211.171.128/29,Reject
 IP-CIDR,60.211.211.1/32,Reject
-#99 提交的公告 未测试是否误杀
-#以下为杭州公交 APP 的广告调用地址，含京东广告
 DOMAIN-SUFFIX,im-x.jd.com,Reject
 DOMAIN-SUFFIX,ad.ipadview.com,Reject
-#以下为某些不可描述网站加载的乱七八糟广告
 DOMAIN-SUFFIX,.maizhenai.cn,Reject
 DOMAIN-SUFFIX,.paomifen.cn,Reject
 DOMAIN-SUFFIX,.songlaoban.cn,Reject
@@ -178,23 +169,20 @@ DOMAIN-SUFFIX,.yeshoutuan.cn,Reject
 DOMAIN-SUFFIX,.muxq8.cn,Reject
 DOMAIN-SUFFIX,.huanshawang.cn,Reject
 DOMAIN-SUFFIX,.v85968.cn,Reject
-#以下为广告联盟
+
 DOMAIN-SUFFIX,taboola.com,Reject
 DOMAIN-SUFFIX,trc.taboola.com,Reject
-#付呗收款码支付后跳转到的广告地址（支付宝内）
+
 DOMAIN-SUFFIX,tuisnake.com,Reject
 DOMAIN-SUFFIX,.duiba.com.cn,Reject
 DOMAIN-SUFFIX,.dui88.com,Reject
-#喜马拉雅跟踪和广告
+
 DOMAIN-SUFFIX,location.ximalaya.com,Reject
 DOMAIN-SUFFIX,adse.ximalaya.com,Reject
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,Reject
-#广告联盟
 DOMAIN-SUFFIX,.inmobi.cn,Reject
 DOMAIN-SUFFIX,.criteo.com,Reject
 
-
-# adblock rules refresh time: 2019-10-25 02:33:15
 DOMAIN-SUFFIX,000dn.com,Reject
 DOMAIN-SUFFIX,0024aaaa.com,Reject
 DOMAIN-SUFFIX,003store.com,Reject
